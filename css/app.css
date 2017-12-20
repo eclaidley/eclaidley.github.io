@@ -1,0 +1,101 @@
+#landing-page,
+#projects-home,
+#contact-home,
+#acorn-home,
+#ipt-home,
+#synbio-home,
+#igem-home {
+	background-color: white;
+}
+
+#home-photo-container {
+	height: 100vh;
+	background-image: url("../assets/img/erin01.jpg");
+	background-size: cover;
+	background-position: top center;
+}
+
+#home-photo {
+	height: 100%;
+	width: 100vh;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+	font-weight: bold;
+	text-transform: uppercase;
+	font-family: amatic;
+}
+
+h1 {
+	font-size: 50px;
+	margin-top: 150px;
+}
+
+#contact-social-icons i {
+    color: black;
+    font-size: 28px;
+    display: inline-block;
+    width: 46px;
+    height: 46px;
+    margin-right: 8px;
+    margin-left: 4px;
+    text-align: right;
+}
+
+#about-me, 
+#about,
+#sidebar-links,
+#igem-about,
+#acorn-about,
+#ipt-about,
+#contact-form {
+	font-size: 15px;
+	font-family: hero;
+	text-align: justify;
+}
+
+#about-me, 
+#igem-about,
+#acorn-about,
+#ipt-about {
+	margin-top: 20px;
+	margin-right: 25px;
+}
+
+img {
+	margin-right: 20px;
+}
+
+#sidebar-image {
+	max-height:200px; 
+	margin-top: 50px; 
+}
+
+li {
+	margin-left: 50px;
+	margin-top: 10px;
+}
+
+h2 {
+	font-size: 30px;
+	margin-left: 10px;
+	margin-bottom: 5px;
+}
+
+#about {
+	margin-left: 10px;
+}
+
+h3, 
+h4,
+h5 {
+	font-size: 50px;
+}
+
+#igem-title {
+	margin-left: 350px;
+}
