@@ -22,9 +22,7 @@
 
 h1,
 h2,
-h3,
-h4,
-h5 {
+h3 {
 	font-weight: bold;
 	text-transform: uppercase;
 	font-family: 'Amatic SC', cursive;
@@ -56,6 +54,8 @@ h1 {
 #igem-about,
 #acorn-about,
 #ipt-about,
+.skills-list,
+#dextranase-about,
 #contact-form {
 	font-size: 16px;
 	font-family: 'Barlow', sans-serif;
@@ -90,7 +90,10 @@ h2 {
 }
 
 h3, 
-h4,
-h5 {
+ {
 	font-size: 50px;
+}
+
+a:hover {
+	color: #79c6c8;
 }
