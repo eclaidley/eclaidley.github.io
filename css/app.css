@@ -46,16 +46,19 @@ h1 {
     text-align: right;
 }
 
+#about-me {
+	word-spacing: 3px;
+	letter-spacing: 1px;
+}
+
 #about-me, 
 #about,
-#sidebar-links,
 #igem-about,
 #acorn-about,
 #ipt-about,
 #contact-form {
 	font-size: 16px;
 	font-family: 'Barlow', sans-serif;
-	text-align: justify;
 	letter-spacing: 1px;
 }
 
@@ -69,11 +72,6 @@ h1 {
 
 img {
 	margin-right: 20px;
-}
-
-#sidebar-image {
-	max-height:200px; 
-	margin-top: 50px; 
 }
 
 li {
@@ -95,8 +93,4 @@ h3,
 h4,
 h5 {
 	font-size: 50px;
-}
-
-#igem-title {
-	margin-left: 350px;
 }
