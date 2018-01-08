@@ -96,3 +96,14 @@ a:hover {
 	margin-top: 60px;
 	max-width: 300px;
 }
+
+.science-list img {
+	max-width: 300px;
+	max-height: 200px;
+	padding-top: 10px;
+	padding-bottom: 15px;
+}
+
+#acorn {
+	padding-top: 30px;
+}
