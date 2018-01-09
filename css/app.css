@@ -63,8 +63,16 @@ li,
 	letter-spacing: 1px;
 }
 
-img {
-	margin-right: 20px;
+#header-img {
+	border-radius: 50%;
+	width: 80%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#sidebar p,
+#sidebar ul {
+	line-height: 1.2;
 }
 
 li {
@@ -72,9 +80,13 @@ li {
 	margin-top: 10px;
 }
 
-h2,
-h3 {
+h2 {
 	font-size: 35px;
+	margin-bottom: 5px;
+}
+
+h3 {
+	font-size: 25px;
 	margin-bottom: 5px;
 }
 
