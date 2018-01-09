@@ -618,11 +618,9 @@ h6 {
 
 a {
   line-height: inherit;
-  color: #3CB54A;
+  color: black;
   text-decoration: none;
   cursor: pointer; }
-  a:hover, a:focus {
-    color: #349c40; }
   a img {
     border: 0; }
 
